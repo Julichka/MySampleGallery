@@ -25,7 +25,22 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         UIImage(named: "pic12")!,
         UIImage(named: "pic13")!,
         UIImage(named: "pic14")!,
-        UIImage(named: "pic15")!
+        UIImage(named: "pic15")!,
+        UIImage(named: "pic16")!,
+        UIImage(named: "pic20")!,
+        UIImage(named: "pic30")!,
+        UIImage(named: "pic40")!,
+        UIImage(named: "pic50")!,
+        UIImage(named: "pic60")!,
+        UIImage(named: "pic70")!,
+        UIImage(named: "pic80")!,
+        UIImage(named: "pic90")!,
+        UIImage(named: "pic100")!,
+        UIImage(named: "pic110")!,
+        UIImage(named: "pic120")!,
+        UIImage(named: "pic130")!,
+        UIImage(named: "pic140")!,
+        UIImage(named: "pic150")!,
     ]
 
     override func viewDidLoad() {
