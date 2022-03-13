@@ -11,6 +11,11 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     @IBOutlet weak var imageCollection: UICollectionView!
     
     let images: [UIImage] = [
+        UIImage(named: "pic0")!,
+        UIImage(named: "pic01")!,
+        UIImage(named: "pic02")!,
+        UIImage(named: "pic03")!,
+        UIImage(named: "pic04")!,
         UIImage(named: "pic1")!,
         UIImage(named: "pic2")!,
         UIImage(named: "pic3")!,
@@ -35,12 +40,6 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         UIImage(named: "pic70")!,
         UIImage(named: "pic80")!,
         UIImage(named: "pic90")!,
-        UIImage(named: "pic100")!,
-        UIImage(named: "pic110")!,
-        UIImage(named: "pic120")!,
-        UIImage(named: "pic130")!,
-        UIImage(named: "pic140")!,
-        UIImage(named: "pic150")!,
     ]
 
     override func viewDidLoad() {
